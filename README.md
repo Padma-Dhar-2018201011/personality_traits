@@ -1,2 +1,2 @@
 # personality_traits
-Data science project
+Data science project.
